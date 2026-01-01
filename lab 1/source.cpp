@@ -14,8 +14,7 @@ int main ()
 	cout<<"\t Task-04\n";
 	cout<<"She said ,\"Let's learn C++!\" \n" <<"To start save your file in C:\\C++_Projects\\Lab1 \n" <<"Good Luck! \n";
 	
-	cout<<"\t Task-05\n";
-	cout<<"My name is Sajeel MiR";
+
 	
 	return 0;
 } 
